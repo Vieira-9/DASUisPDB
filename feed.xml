@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>DASU is Pretty Damn Bored</title>
+    <title>达酥几鬼闲</title>
     <link href="https://vieira-9.github.io/DASUisPDB/feed.xml" rel="self" />
     <link href="https://vieira-9.github.io/DASUisPDB" />
     <updated>2022-12-11T13:11:49+08:00</updated>
     <author>
-        <name>DASU</name>
+        <name>Vieira-9</name>
     </author>
     <id>https://vieira-9.github.io/DASUisPDB</id>
 
     <entry>
         <title>信息采集网站汇总（持续更新）</title>
         <author>
-            <name>DASU</name>
+            <name>Vieira-9</name>
         </author>
         <link href="https://vieira-9.github.io/DASUisPDB/she-ji-zi-yuan.html"/>
         <id>https://vieira-9.github.io/DASUisPDB/she-ji-zi-yuan.html</id>
